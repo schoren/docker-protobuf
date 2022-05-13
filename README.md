@@ -1,3 +1,10 @@
+FORKED FROM https://github.com/jaegertracing/docker-protobuf
+BUILD THAT WORKS WITH M1 MAC: https://hub.docker.com/repository/docker/schoren
+
+```
+docker run schoren/protobuf:0.3.1
+```
+
 # Protocol Buffers + Docker
 
 [![](https://images.microbadger.com/badges/version/jaegertracing/protobuf.svg)](https://hub.docker.com/r/jaegertracing/protobuf/tags)
